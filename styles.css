@@ -120,20 +120,20 @@ nav .fa-bars{
 	
 }
 
-.Services{
+#Services{
 	background-color: #013f72;
 	padding-top: 70px;
 	padding-bottom: 70px;
 }
 
-.Services .content{
+#Services .content{
 	
 	display: flex;
 	align-items: center;
 	
 }
 
-.Services .content .box{
+#Services .content .box{
 	
 	max-width: 100%;
 	padding-left: 200px;
@@ -142,7 +142,7 @@ nav .fa-bars{
 }
 
 
-.Services .content .text h2{
+#Services .content .text h2{
 	font-size: 30px;
     font-weight: 500;
     color: #ffffff;
@@ -150,7 +150,7 @@ nav .fa-bars{
     text-align: center;
 }
 
-.Services .content .text p{
+#Services .content .text p{
 	font-size: 15px;
     line-height: 20px;
     color: #ffffff;
@@ -549,7 +549,7 @@ nav .fa-bars{
 .start-today .content .box{
 	padding:15px;
 }
-.Services .content .box{
+#Services .content .box{
 	padding-left: 20px;
 	padding-right: 20px;
 }
